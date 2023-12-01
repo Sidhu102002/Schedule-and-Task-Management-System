@@ -2,8 +2,6 @@
 
 Website of a task organizer (to-do list) built with React JS, Tailwind CSS, TypeScript, Redux Toolkit, and more.
 
-![home page](./src/assets/Screenshot%202023-08-19%20at%206.59.23%20PM.png)
-
 ## Description
 
 - Used for organizing your tasks with the following data: title, description, date, mark as complete, and mark as important.
@@ -26,19 +24,6 @@ The project primarily aimed to apply knowledge of TypeScript, Tailwind, Redux To
 - React Router DOM
 - HTML
 - Figma (prototyping)
-
-## How to Test
-
-You can access the project here: https://tasks-app-aridsm.netlify.app/
-
-Or run it on your machine:
-
-``` 
-git clone https://github.com/aridsm/tasks-app.git
-cd tasks-app
-npm install
-npm start
-```
 
 ## Notes
 
